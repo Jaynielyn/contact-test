@@ -1,0 +1,253 @@
+.header {
+    background-color: #fff;
+}
+
+.header__inner {
+    text-align: center;
+}
+
+.header__logo {
+    text-decoration: none;
+    color: #8b7969;
+    font-size: 50px;
+    font-family: "Alice", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.contact__site h2 {
+    text-align: center;
+    color: #8b7969;
+    font-size: 40px;
+    font-family: "Alice", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.contact__page {
+    display: flex;
+    justify-content: center;
+}
+
+.asterisk {
+    color: rgb(255, 94, 94);
+}
+
+.form__error {
+    color: red;
+}
+
+.contact__name {
+    margin-top: 8px;
+    margin-left: -80px;
+}
+
+.contact__name label {
+    color: #8b7969;
+    font-size: 20px;
+}
+
+.first-name {
+    width: 23em;
+    height: 3em;
+    color: #8b7969;
+    background-color: #8b796917;
+    border: none;
+}
+
+.last-name {
+    width: 23em;
+    height: 3em;
+    color: #8b7969;
+    background-color: #8b796917;
+    border: none;
+    margin-left: 30px;
+}
+
+.name__form {
+    margin-left: 160px;
+}
+
+.contact__gender {
+    margin-top: 25px;
+    margin-left: -80px;
+}
+
+.contact__gender label {
+    color: #8b7969;
+    font-size: 20px;
+}
+
+.gender__form label {
+    color: #8b7969;
+    font-size: 20px;
+    margin-right: 65px;
+}
+
+.gender__form {
+    margin-top: 20px;
+    margin-left: 160px;
+}
+
+.gender__name {
+    accent-color: #8b7969;
+    margin-right: 10px;
+}
+
+.contact__mail {
+    margin-top: 30px;
+    margin-left: -80px;
+}
+
+.contact__mail label {
+    color: #8b7969;
+    font-size: 20px;
+}
+
+.mail__form {
+    margin-top: 30px;
+    margin-left: 160px;
+}
+
+.email {
+    height: 3em;
+    border: none;
+    color: #8b7969;
+    background-color: #8b796917;
+}
+
+.contact__tell {
+    margin-top: 45px;
+    margin-left: -80px;
+}
+
+.contact__tell label {
+    color: #8b7969;
+    font-size: 20px;
+}
+
+.tel__form {
+    margin-top: 30px;
+    margin-left: 160px;
+}
+
+.tel__form label {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.tel {
+    height: 3em;
+    width: 177px;
+    border: none;
+    text-align: center;
+    font-size: 14px;
+    font-family: "Alice", serif;
+    color: #8b7969;
+    background-color: #8b796917;
+}
+
+.contact__address {
+    margin-top: 55px;
+    margin-left: -80px;
+}
+
+.contact__address label {
+    color: #8b7969;
+    font-size: 20px;
+}
+
+.address__form {
+    margin-top: 30px;
+    margin-left: 160px;
+}
+
+.address {
+    height: 3em;
+    border: none;
+    color: #8b7969;
+    background-color: #8b796917;
+}
+
+.contact__building {
+    margin-top: 30px;
+    margin-left: -80px;
+}
+
+.contact__building label {
+    color: #8b7969;
+    font-size: 20px;
+}
+
+.building__form {
+    margin-top: 30px;
+    margin-left: 160px;
+}
+
+.building {
+    height: 3em;
+    border: none;
+    color: #8b7969;
+    background-color: #8b796917;
+}
+
+.contact__select {
+    margin-top: 40px;
+    margin-left: -80px;
+}
+
+.contact__select label {
+    color: #8b7969;
+    font-size: 20px;
+}
+
+.select__form {
+    margin-top: 30px;
+    margin-left: 160px;
+}
+
+.select {
+    width: 250px;
+    height: 3em;
+    color: #8b7969;
+    background-color: #8b796917;
+    border: none;
+}
+
+.contact__detail {
+    margin-top: 30px;
+    margin-left: -80px;
+}
+
+.contact__detail label {
+    color: #8b7969;
+    font-size: 20px;
+}
+
+.detail__form {
+    margin-top: 30px;
+    margin-left: 160px;
+}
+
+.detail {
+    height: 200px;
+    width: 630px;
+    border: none;
+    color: #8b7969;
+    font-size: 15px;
+    background-color: #8b796917;
+}
+
+.contact__submit {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.contact__btn {
+    height: 2.5em;
+    width: 9em;
+    font-size: 22px;
+    color: #fff;
+    background-color: #8b7969;
+    border: none;
+}

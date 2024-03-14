@@ -1,0 +1,87 @@
+.header {
+    background-color: #fff;
+}
+
+.header__inner {
+    text-align: center;
+}
+
+.header__logo {
+    text-decoration: none;
+    color: #8b7969;
+    font-size: 50px;
+    font-family: "Alice", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.confirm__site h2 {
+    text-align: center;
+    color: #8b7969;
+    font-size: 40px;
+    font-family: "Alice", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.form {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.confirm__table {
+    border: 1px solid #ddd;
+}
+
+.table__inner {
+    width: 100%;
+    text-align: left;
+}
+
+.table__header {
+    padding: 25px;
+    width: 30%;
+    border-bottom: 1px solid #ddd;
+    background-color: #8b7969;
+    color: white;
+    font-weight: bold;
+}
+
+.table__text {
+    padding: 15px;
+    width: 60%;
+    border-bottom: 1px solid #ddd;
+}
+
+.table__text input {
+    width: 100%;
+    outline: none;
+    border: none;
+    color: #8b7969;
+}
+
+.table__row:last-child .table__header,
+.table__row:last-child .table__text {
+    border-bottom-width: 0;
+}
+
+.confirm__btn {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.confirm__submit {
+    padding: 10px;
+    width: 130px;
+    height: 50px;
+    border: none;
+    font-size: 20px;
+    background: #8b7969;
+    color: white;
+    cursor: pointer;
+}
+
+.edit {
+    color: #8b7969;
+    font-size: 18px;
+}

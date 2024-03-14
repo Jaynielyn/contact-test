@@ -1,0 +1,34 @@
+.back__text {
+    text-align: center;
+    color: #8b796914;
+    font-size: 300px;
+    font-family: "Alice", serif;
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+}
+
+.thanks__inner {
+    position: absolute;
+    margin-top: -520px;
+    margin-left: 450px;
+    text-align: center;
+}
+
+.thanks__inner__txt {
+    font-size: 43px;
+    font-weight: bold;
+    color: #8b7969;
+}
+
+.btn {
+    background-color: #8b7969;
+    color: white;
+    border: none;
+    width: 160px;
+    height: 60px;
+    font-size: 25px;
+    font-family: "Alice", serif;
+    font-weight: 400;
+    font-style: normal;
+}
